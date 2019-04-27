@@ -3245,9 +3245,6 @@ saveplaypos=0
 578*file*http://radio-holding.ru:9000/marusya_aac_64
 578*title*Маруся FM
 578*played*0
-579*file*http://stream.kazancity.net:8000/27-mds
-579*title*МДС
-579*played*0
 580*file*http://online.radiorecord.ru:8102/mdl_128
 580*title*Медляк FM
 580*played*0
@@ -8296,9 +8293,6 @@ saveplaypos=0
 1451*file*http://stream.tvrmogilev.by:8035/live
 1451*title*Радио Могилев BY
 1451*played*0
-1452*file*http://mds-station.com:8000/mds
-1452*title*Радио Модель для сборки
-1452*played*0
 1453*file*http://95.154.254.157:14773/;stream.mp3
 1453*title*Радио Модерн (Северодвинск)
 1453*played*0
